@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="@color/colorLila" /> <!-- Aquí puedes usar el color lila que ya tengas en tu archivo colors.xml -->
+    <corners android:radius="16dp" /> <!-- Para hacer que las esquinas sean redondeadas -->
+</shape>
